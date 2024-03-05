@@ -1,0 +1,10 @@
+confluent-kafka
+requests
+six
+pandas
+astrapy ==0.7.6
+jsonschema==3.2.0
+dnspython
+cassandra-driver ==3.29.0
+
+-e .
